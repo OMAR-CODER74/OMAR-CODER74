@@ -19,7 +19,7 @@
 
 ### 📫 Contact Me
 - Email: omarabdelrahman744@gmail.com
-- LinkedIn: [linkedin.com/in/ahmeddev](https://www.linkedin.com/in/omarabdelrahman74/)
+- LinkedIn: [linkedin.com/in/omarabdelrahman74](https://www.linkedin.com/in/omarabdelrahman74/)
 
 <!--
 **OMAR-CODER74/OMAR-CODER74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
