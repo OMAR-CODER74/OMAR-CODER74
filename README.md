@@ -26,7 +26,7 @@
 
 ---
 
-## `$ cat /skills/technical.conf`
+## `$Skills`
 
 ```yaml
 networking:
@@ -57,7 +57,7 @@ operations:
 
 ---
 
-## `$ ls /certifications/`
+## `$Courses/`
 
 ```
 📁 /certifications/
@@ -72,7 +72,7 @@ operations:
 
 ---
 
-## `$ cat /career/history.log`
+## `$Career`
 
 ```
 [2024-09 → NOW]  IT Specialist @ Touch Food for Industries
@@ -96,7 +96,7 @@ operations:
 
 ---
 
-## `$ cat /education/degree.txt`
+## `$Education`
 
 ```
 B.Sc. Computers and Informatics
@@ -105,7 +105,7 @@ Zagazig University · 2018 – 2022 · Grade: Good
 
 ---
 
-## `$ echo $LANGUAGES`
+## `$LANGUAGES`
 
 ```
 Arabic=Native  English=Intermediate
@@ -126,5 +126,6 @@ Arabic=Native  English=Intermediate
 **📬 Open to new opportunities — let's connect!**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarabdelrahman74)
+[![Phone](https://img.shields.io/badge/📞%20-01201119782%20%7C%2001551599782-1DA462?style=for-the-badge)](tel:+201201119782)
 
 </div>
