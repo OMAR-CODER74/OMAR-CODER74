@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Omar Abdelrahman 👋</h1>
+<h1 >Hi, I'm Omar Abdelrahman 👋</h1>
 
-<p align="center">
+<p>
   <b>IT Technical Support Specialist | Network & Infrastructure Support</b><br>
   Cairo, Egypt 🇪🇬
 </p>
